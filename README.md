@@ -1,7 +1,7 @@
 # usblogin
 USB Stick login for lorOS
 
-To create an USB key for an user, run usblogin create path_to_usb_device username.
+Please use this in combination with ldmauth
 
 ## todo
 
